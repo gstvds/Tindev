@@ -73,7 +73,9 @@ $ react-native run-android
 Mobile version **is not finished**
 
 ## :memo: License
-This project is under MIT License.
+This project is under MIT License. Check the [LINCESE](https://github.com/gstvds/Tindev/edit/master/LICENSE.txt) for more information.
+
+---
 
 [axios]: https://github.com/axios/axios/
 [mongodb]: https://www.mongodb.com/
