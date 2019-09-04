@@ -15,7 +15,8 @@
 <p align="center">
   <a href="#rocket-build-stack">Build Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-note">License</a>
+  <a href="#information_source-note">Note</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 ## :rocket: Build Stack
@@ -70,6 +71,9 @@ $ react-native run-android
 
 ## :information_source: Note
 Mobile version **is not finished**
+
+## :memo: License
+This project is under MIT License.
 
 [axios]: https://github.com/axios/axios/
 [mongodb]: https://www.mongodb.com/
