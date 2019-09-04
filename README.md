@@ -72,7 +72,7 @@ $ react-native run-android
 Mobile version **is not finished**
 
 [axios]: https://github.com/axios/axios/
-[mondogdb]: https://www.mongodb.com/
+[mondodb]: https://www.mongodb.com/
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpgk.com/
 [reactjs]: https://reactjs.org/
