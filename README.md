@@ -1,9 +1,9 @@
-# Tindev
+<h1 align="center">Tindev</h1>
 
 * Tinder for Developers using GitHub API
 * This project is a result of Semana OmniStack 8 (presented by Rocketseat)
 
-<p align="center>
+<p align="center">
           <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gstvds/tindev.svg">
           <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gstvds/tindev.svg">
           <img alt="Repository size" src="https://img.shields.io/github/repo-size/gstvds/tindev.svg">
