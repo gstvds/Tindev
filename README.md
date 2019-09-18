@@ -1,7 +1,7 @@
 <h1 align="center">Tindev</h1>
 
 - Tinder for Developers using GitHub API
-- This project is a result of Semana OmniStack 8 (presented by Rocketseat)
+- This project is a result of Semana OmniStack 8 (presented by [Rocketseat][rocket])
 
 <p align="center">
           <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gstvds/tindev.svg">
@@ -32,6 +32,10 @@
 ### Frontend
 
 - [ReactJS][reactjs]
+
+### Mobile
+
+- [ReactNative][reactnative]
 
 ## :memo: How to Use
 
@@ -92,3 +96,5 @@ This project is under MIT License. Check the [LINCESE](https://github.com/gstvds
 [yarn]: https://yarnpgk.com/
 [reactjs]: https://reactjs.org/
 [nodemon]: https://nodemon.io/
+[reactnative]: https://facebook.github.io/react-native/
+[rocket]: https://rocketseat.com.br
