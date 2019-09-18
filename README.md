@@ -21,7 +21,7 @@
 
 ## :rocket: Build Stack
 
-- JavaScript
+- [JavaScript][js]
 
 ### Backend
 
@@ -105,3 +105,4 @@ This project is under MIT License. Check the [LINCESE](https://github.com/gstvds
 [express]: https://expressjs.com
 [mongoose]: https://mongoosejs.com
 [insomnia]: https://insomnia.rest
+[js]: https://www.javascript.com
