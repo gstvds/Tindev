@@ -28,6 +28,8 @@
 - [NodeJS][nodejs]
 - [MondoDB][mongodb]
 - [Axios][axios]
+- [Express][express]
+- [Mongoose][mongoose]
 
 ### Frontend
 
@@ -98,3 +100,5 @@ This project is under MIT License. Check the [LINCESE](https://github.com/gstvds
 [nodemon]: https://nodemon.io/
 [reactnative]: https://facebook.github.io/react-native/
 [rocket]: https://rocketseat.com.br
+[express]: https://expressjs.com
+[mongoose]: https://mongoosejs.com
