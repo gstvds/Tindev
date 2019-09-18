@@ -1,7 +1,7 @@
 <h1 align="center">Tindev</h1>
 
-* Tinder for Developers using GitHub API
-* This project is a result of Semana OmniStack 8 (presented by Rocketseat)
+- Tinder for Developers using GitHub API
+- This project is a result of Semana OmniStack 8 (presented by Rocketseat)
 
 <p align="center">
           <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gstvds/tindev.svg">
@@ -20,26 +20,30 @@
 </p>
 
 ## :rocket: Build Stack
-* JavaScript
+
+- JavaScript
 
 ### Backend
-* [NodeJS][nodejs]
-* [MondoDB][mongodb]
-* [Axios][axios]
+
+- [NodeJS][nodejs]
+- [MondoDB][mongodb]
+- [Axios][axios]
 
 ### Frontend
-* [ReactJS][reactjs]
+
+- [ReactJS][reactjs]
 
 ## :memo: How to Use
 
-You will need [Git](https://git-scm.com) to clone this repository. You will also need [Node.js][nodejs] and [Yarn][yarn] on your computer to run the application.
+You will need [Git](https://git-scm.com) to clone this repository. You will also need [Node.js][nodejs], [Nodemon][nodemon] and [Yarn][yarn] on your computer to run the application.
 From your command line, run:
+
 ```bash
 # Clone this repository
-$ git clone https://github.com/gstvds/tindev
+$ git clone https://github.com/gstvds/Tindev
 
 # Go to the repository folder
-$ cd tindev
+$ cd Tindev
 
 # Install dependencies for backend server
 $ cd backend
@@ -65,14 +69,19 @@ $ yarn start
 $ cd tindev
 $ react-native start
 
-# Run the App
+# Run the App (Android)
 $ react-native run-android
+
+# Run the App (iOS)
+$ react-native run-ios --simulator="iPhone XS Max"
 ```
 
 ## :information_source: Note
+
 Mobile version **is not finished**
 
 ## :memo: License
+
 This project is under MIT License. Check the [LINCESE](https://github.com/gstvds/Tindev/blob/master/LICENSE.txt) for more information.
 
 ---
@@ -82,3 +91,4 @@ This project is under MIT License. Check the [LINCESE](https://github.com/gstvds
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpgk.com/
 [reactjs]: https://reactjs.org/
+[nodemon]: https://nodemon.io/
