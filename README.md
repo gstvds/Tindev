@@ -62,7 +62,7 @@ $ cd frontend
 $ yarn install
 
 # Install dependencies for mobile
-$ cd tindev
+$ cd mobile
 $ yarn install
 
 # Run the backend server
