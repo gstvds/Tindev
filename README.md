@@ -1,4 +1,6 @@
-<h1 align="center">Tindev</h1>
+<p align='center'>
+<img alt='Tindev logo' src='./mobile/assets/logo.png'>
+</p>
 
 - Tinder for Developers using GitHub API
 - This project is a result of Semana OmniStack 8 (presented by [Rocketseat][rocket])
