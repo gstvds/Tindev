@@ -9,9 +9,14 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bcrypt": "^5.0.0",
+    "cloudinary": "^2.10.1",
     "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
     "express": "^4.17.1",
-    "mongoose": "^5.7.5"
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^5.7.5",
+    "multer": "^2.2.0",
+    "socket.io": "^4.8.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
