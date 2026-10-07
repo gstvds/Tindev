@@ -1,0 +1,5 @@
+# OS
+.DS_Store
+
+# Local-only dev test fixtures — synthetic accounts, never committed
+test-accounts.local.md

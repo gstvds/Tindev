@@ -9,11 +9,17 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bcrypt": "^5.0.0",
+    "cloudinary": "^2.10.1",
     "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
     "express": "^4.17.1",
-    "mongoose": "^5.7.5"
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^5.7.5",
+    "multer": "^2.2.0",
+    "socket.io": "^4.8.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
